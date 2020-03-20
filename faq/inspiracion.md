@@ -23,7 +23,7 @@ Algunas de las medidas que aún no se han contemplado en la literatura pero que 
 
 -   Gestión de estacionamientos (en vía, fuera de vía): son espacios cuya demanda se reduce y podría aprovecharse de alguna manera dada la reducción de su utilización.
 
-### Preguntus Puntuales
+### Preguntas Puntuales
 
 - ¿Cómo podemos aplicar soluciones y servicios digitales para hacer los sistemas de transporte público más resilientes en periodos de emergencias de salud?
 - ¿Qué precauciones pueden ser tomadas por los proveedores del servicio de transporte público?
@@ -47,6 +47,7 @@ Algunas de las medidas que aún no se han contemplado en la literatura pero que 
 -   MaaS Global: iniciativas de servicios compartidos ([español](https://www.maaslatam.org/post/empresas-de-movilidad-por-app-activan-medidas-contra-covid-19-y-destacan-beneficios-de-la-industria))
 -   Algunas ciudades de Estados Unidos dan [transporte público de tarifa cero](https://www.citylab.com/perspective/2020/03/coronavirus-public-transit-fares-free-rides-bus-covid-19/608350/)
 -   [Propuestas de Carlos F Pardo](https://medium.com/@carlosfpardo/yet-another-crisis-opportunity-to-redefine-mobility-how-could-we-achieve-it-this-time-d13cbd545369) (en inglés)
+- [Algunas medidas que ha tomado BART en San Francisco (hilo de Twitter en inglés)] (https://twitter.com/SFBART/status/1240753981158125568?s=20)
 
 ### Sobre transporte público en general
 
